@@ -1,7 +1,7 @@
 ![header](https://github.com/tester-dono/ECTOBIOLOBAJUN/blob/main/Law-Services-Logo%20(1).jpg)
 ## I am a beginner software engineer + android developer and I'm looking for internship [in exchange for food at least]
 
-##### [as a beginner, I have excessive expectations like payment in Caesars with shrimp]
+##### [as a beginner, I have excessive expectations, like payment in Caesars with shrimps]
 #
 ### main frontline: 
 
