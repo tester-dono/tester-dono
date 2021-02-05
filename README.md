@@ -15,3 +15,7 @@
 ![SQL](https://img.shields.io/badge/<SQL>-FFaACD?style=for-the-badge&logo=PostgreSQL&logoColor=00BFFF)
 ![HTML](https://img.shields.io/badge/<HTML>-A6AAAD?style=for-the-badge&logo=html&logoColor=00BFFF)
 ![CSS](https://img.shields.io/badge/<CSS>-FFFA3D?style=for-the-badge)
+### contact me
+[![Telegram](https://img.shields.io/badge/<Telegram>-blue?style=for-the-badge&logo=Telegram&logoColor=silver)](https://t.me/tester_dono)
+[![mail](https://img.shields.io/badge/<Mail>-snow?style=for-the-badge&logo=Gmail&logoColor=red)](den.shegida@gmail.com)
+
